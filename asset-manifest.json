@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3e2d0f8c.chunk.css",
+    "main.js": "./static/js/main.6d5677aa.chunk.js",
+    "main.js.map": "./static/js/main.6d5677aa.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.b3dc0c33.chunk.js": "./static/js/2.b3dc0c33.chunk.js",
+    "static/js/2.b3dc0c33.chunk.js.map": "./static/js/2.b3dc0c33.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3e2d0f8c.chunk.css.map": "./static/css/main.3e2d0f8c.chunk.css.map",
+    "static/js/2.b3dc0c33.chunk.js.LICENSE.txt": "./static/js/2.b3dc0c33.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "./static/media/search.1e77bbf1.svg",
+    "static/media/styles.scss": "./static/media/arrowDisabled.4f49afa1.svg",
+    "static/media/home.d4c29e4f.svg": "./static/media/home.d4c29e4f.svg",
+    "static/media/left-arrow.081ebe62.svg": "./static/media/left-arrow.081ebe62.svg",
+    "static/media/right-arrow.7365d53e.svg": "./static/media/right-arrow.7365d53e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.b3dc0c33.chunk.js",
+    "static/css/main.3e2d0f8c.chunk.css",
+    "static/js/main.6d5677aa.chunk.js"
+  ]
+}
