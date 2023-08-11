@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.18d0bd75.chunk.css",
-    "main.js": "./static/js/main.04339d6c.chunk.js",
-    "main.js.map": "./static/js/main.04339d6c.chunk.js.map",
+    "main.css": "./static/css/main.2bec4be5.chunk.css",
+    "main.js": "./static/js/main.bc5dc0cd.chunk.js",
+    "main.js.map": "./static/js/main.bc5dc0cd.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.85109eec.chunk.js": "./static/js/2.85109eec.chunk.js",
     "static/js/2.85109eec.chunk.js.map": "./static/js/2.85109eec.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.18d0bd75.chunk.css.map": "./static/css/main.18d0bd75.chunk.css.map",
+    "static/css/main.2bec4be5.chunk.css.map": "./static/css/main.2bec4be5.chunk.css.map",
     "static/js/2.85109eec.chunk.js.LICENSE.txt": "./static/js/2.85109eec.chunk.js.LICENSE.txt",
     "static/media/style.scss": "./static/media/search.1e77bbf1.svg",
     "static/media/styles.scss": "./static/media/arrowDisabled.4f49afa1.svg",
@@ -20,12 +20,13 @@
     "static/media/category-tablets.51782e18.png": "./static/media/category-tablets.51782e18.png",
     "static/media/home.d4c29e4f.svg": "./static/media/home.d4c29e4f.svg",
     "static/media/left-arrow.081ebe62.svg": "./static/media/left-arrow.081ebe62.svg",
-    "static/media/right-arrow.7365d53e.svg": "./static/media/right-arrow.7365d53e.svg"
+    "static/media/right-arrow.7365d53e.svg": "./static/media/right-arrow.7365d53e.svg",
+    "static/media/underConstruction.3b7fa90a.png": "./static/media/underConstruction.3b7fa90a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.85109eec.chunk.js",
-    "static/css/main.18d0bd75.chunk.css",
-    "static/js/main.04339d6c.chunk.js"
+    "static/css/main.2bec4be5.chunk.css",
+    "static/js/main.bc5dc0cd.chunk.js"
   ]
 }
